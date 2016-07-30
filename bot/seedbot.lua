@@ -237,7 +237,7 @@ function create_config( )
     "infobyuser",
     "isup"
     },
-    sudo_users = {40262958},--Sudo users
+    sudo_users = {111616340},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
